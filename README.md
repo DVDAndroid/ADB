@@ -1,0 +1,1 @@
+ADB utility for quick connect and kill server
